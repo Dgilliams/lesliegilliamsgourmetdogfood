@@ -1,0 +1,61 @@
+{
+  "name": "lesliegilliamsgourmetdogfood.com",
+  "version": "1.0.0",
+  "description": "lesliegilliamsgourmetdogfood.com",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "acorn": "^6.1.1",
+    "fg-loadcss": "^1.3.1",
+    "gulp-cli": "^2.2.0",
+    "jquery": "^3.4.1",
+    "lazysizes": "^4.1.8",
+    "lodash": "^4.17.11",
+    "node-sass": "^4.12.0",
+    "normalize.css": "^7.0.0",
+    "npm": "^6.9.0",
+    "picturefill": "^3.0.3",
+    "velocity-animate": "^1.5.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "babelify": "^8.0.0",
+    "browser-sync": "^2.26.5",
+    "browserify": "^16.2.3",
+    "critical": "^1.3.4",
+    "eslint": "^5.16.0",
+    "eslint-config-jquery": "^1.0.1",
+    "eslint-plugin-dollar-sign": "^1.0.2",
+    "eslint-plugin-jquery": "^1.5.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-notify": "^3.2.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-responsive": "^2.14.0",
+    "gulp-sass": "^3.2.1",
+    "gulp-size": "^3.0.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "sw-precache": "^5.2.1",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janczizikow/sleek.git"
+  },
+  "keywords": [],
+  "author": "Jan Czizikow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janczizikow/sleek/issues"
+  },
+  "homepage": "https://github.com/janczizikow/sleek#readme"
+}
